@@ -1,0 +1,1067 @@
+fileFormatVersion: 2
+guid: 6f64bf42dc7e41344a9a2b4e6d0ed4d2
+timeCreated: 1523662168
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: _Smoke_Export_0
+    21300002: _Smoke_Export_1
+    21300004: _Smoke_Export_2
+    21300006: _Smoke_Export_3
+    21300008: _Smoke_Export_4
+    21300010: _Smoke_Export_5
+    21300012: _Smoke_Export_6
+    21300014: _Smoke_Export_7
+    21300016: _Smoke_Export_8
+    21300018: _Smoke_Export_9
+    21300020: _Smoke_Export_10
+    21300022: _Smoke_Export_11
+    21300024: _Smoke_Export_12
+    21300026: _Smoke_Export_13
+    21300028: _Smoke_Export_14
+    21300030: _Smoke_Export_15
+    21300032: _Smoke_Export_16
+    21300034: _Smoke_Export_17
+    21300036: _Smoke_Export_18
+    21300038: _Smoke_Export_19
+    21300040: _Smoke_Export_20
+    21300042: _Smoke_Export_21
+    21300044: _Smoke_Export_22
+    21300046: _Smoke_Export_23
+    21300048: _Smoke_Export_24
+    21300050: _Smoke_Export_25
+    21300052: _Smoke_Export_26
+    21300054: _Smoke_Export_27
+    21300056: _Smoke_Export_28
+    21300058: _Smoke_Export_29
+    21300060: _Smoke_Export_30
+    21300062: _Smoke_Export_31
+    21300064: _Smoke_Export_32
+    21300066: _Smoke_Export_33
+    21300068: _Smoke_Export_34
+    21300070: _Smoke_Export_35
+    21300072: _Smoke_Export_36
+    21300074: _Smoke_Export_37
+    21300076: _Smoke_Export_38
+    21300078: _Smoke_Export_39
+    21300080: _Smoke_Export_40
+    21300082: _Smoke_Export_41
+    21300084: _Smoke_Export_42
+    21300086: _Smoke_Export_43
+    21300088: _Smoke_Export_44
+    21300090: _Smoke_Export_45
+    21300092: _Smoke_Export_46
+    21300094: _Smoke_Export_47
+    21300096: _Smoke_Export_48
+    21300098: _Smoke_Export_49
+    21300100: _Smoke_Export_50
+    21300102: _Smoke_Export_51
+    21300104: _Smoke_Export_52
+    21300106: _Smoke_Export_53
+    21300108: _Smoke_Export_54
+    21300110: _Smoke_Export_55
+    21300112: _Smoke_Export_56
+    21300114: _Smoke_Export_57
+    21300116: _Smoke_Export_58
+    21300118: _Smoke_Export_59
+    21300120: _Smoke_Export_60
+    21300122: _Smoke_Export_61
+    21300124: _Smoke_Export_62
+    21300126: _Smoke_Export_63
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: _Smoke_Export_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 968.625
+        width: 137.5
+        height: 138.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _Smoke_Export_1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 968.625
+        width: 137.5
+        height: 138.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _Smoke_Export_2
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 968.625
+        width: 137.5
+        height: 138.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _Smoke_Export_3
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 968.625
+        width: 137.5
+        height: 138.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _Smoke_Export_4
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 968.625
+        width: 137.5
+        height: 138.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _Smoke_Export_5
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 968.625
+        width: 137.5
+        height: 138.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _Smoke_Export_6
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 968.625
+        width: 137.5
+        height: 138.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _Smoke_Export_7
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 968.625
+        width: 137.5
+        height: 138.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _Smoke_Export_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 830.625
+        width: 137.5
+        height: 138.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _Smoke_Export_9
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 830.625
+        width: 137.5
+        height: 138.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _Smoke_Export_10
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 830.625
+        width: 137.5
+        height: 138.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _Smoke_Export_11
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 830.625
+        width: 137.5
+        height: 138.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _Smoke_Export_12
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 830.625
+        width: 137.5
+        height: 138.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _Smoke_Export_13
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 830.625
+        width: 137.5
+        height: 138.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _Smoke_Export_14
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 830.625
+        width: 137.5
+        height: 138.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _Smoke_Export_15
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 830.625
+        width: 137.5
+        height: 138.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _Smoke_Export_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 692.625
+        width: 137.5
+        height: 138.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _Smoke_Export_17
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 692.625
+        width: 137.5
+        height: 138.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _Smoke_Export_18
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 692.625
+        width: 137.5
+        height: 138.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _Smoke_Export_19
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 692.625
+        width: 137.5
+        height: 138.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _Smoke_Export_20
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 692.625
+        width: 137.5
+        height: 138.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _Smoke_Export_21
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 692.625
+        width: 137.5
+        height: 138.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _Smoke_Export_22
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 692.625
+        width: 137.5
+        height: 138.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _Smoke_Export_23
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 692.625
+        width: 137.5
+        height: 138.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _Smoke_Export_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 554.625
+        width: 137.5
+        height: 138.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _Smoke_Export_25
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 554.625
+        width: 137.5
+        height: 138.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _Smoke_Export_26
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 554.625
+        width: 137.5
+        height: 138.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _Smoke_Export_27
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 554.625
+        width: 137.5
+        height: 138.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _Smoke_Export_28
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 554.625
+        width: 137.5
+        height: 138.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _Smoke_Export_29
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 554.625
+        width: 137.5
+        height: 138.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _Smoke_Export_30
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 554.625
+        width: 137.5
+        height: 138.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _Smoke_Export_31
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 554.625
+        width: 137.5
+        height: 138.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _Smoke_Export_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416.625
+        width: 137.5
+        height: 138.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _Smoke_Export_33
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 416.625
+        width: 137.5
+        height: 138.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _Smoke_Export_34
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 416.625
+        width: 137.5
+        height: 138.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _Smoke_Export_35
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 416.625
+        width: 137.5
+        height: 138.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _Smoke_Export_36
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 416.625
+        width: 137.5
+        height: 138.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _Smoke_Export_37
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 416.625
+        width: 137.5
+        height: 138.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _Smoke_Export_38
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 416.625
+        width: 137.5
+        height: 138.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _Smoke_Export_39
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 416.625
+        width: 137.5
+        height: 138.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _Smoke_Export_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 278.625
+        width: 137.5
+        height: 138.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _Smoke_Export_41
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 278.625
+        width: 137.5
+        height: 138.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _Smoke_Export_42
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 278.625
+        width: 137.5
+        height: 138.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _Smoke_Export_43
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 278.625
+        width: 137.5
+        height: 138.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _Smoke_Export_44
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 278.625
+        width: 137.5
+        height: 138.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _Smoke_Export_45
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 278.625
+        width: 137.5
+        height: 138.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _Smoke_Export_46
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 278.625
+        width: 137.5
+        height: 138.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _Smoke_Export_47
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 278.625
+        width: 137.5
+        height: 138.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _Smoke_Export_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140.625
+        width: 137.5
+        height: 138.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _Smoke_Export_49
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 140.625
+        width: 137.5
+        height: 138.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _Smoke_Export_50
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 140.625
+        width: 137.5
+        height: 138.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _Smoke_Export_51
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 140.625
+        width: 137.5
+        height: 138.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _Smoke_Export_52
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 140.625
+        width: 137.5
+        height: 138.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _Smoke_Export_53
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 140.625
+        width: 137.5
+        height: 138.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _Smoke_Export_54
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 140.625
+        width: 137.5
+        height: 138.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _Smoke_Export_55
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 140.625
+        width: 137.5
+        height: 138.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _Smoke_Export_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.625
+        width: 137.5
+        height: 138.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _Smoke_Export_57
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 2.625
+        width: 137.5
+        height: 138.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _Smoke_Export_58
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2.625
+        width: 137.5
+        height: 138.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _Smoke_Export_59
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 2.625
+        width: 137.5
+        height: 138.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _Smoke_Export_60
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 2.625
+        width: 137.5
+        height: 138.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _Smoke_Export_61
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 2.625
+        width: 137.5
+        height: 138.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _Smoke_Export_62
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 2.625
+        width: 137.5
+        height: 138.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _Smoke_Export_63
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 2.625
+        width: 137.5
+        height: 138.375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
